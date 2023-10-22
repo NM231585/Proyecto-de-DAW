@@ -13,13 +13,14 @@ uno de los equipos del personal encargado de analizar los datos de las ventas.
   <li>[Muqups]<a href=https://app.moqups.com>Creación de mockups.</a></li>
   <li>[Figma]<a href=https://www.figma.com> Creación de UX/UI.</li>
   <li>[Google Drive]<a href=https://www.google.com/intl/es/drive> Almacenamiento de archivos</a></li>
+  <li>[Trello] <a href=https://trello.com/b/RyBC3kFG/proyecto-daw> Aplicación web de organización grupal</li>
 </ul>
-<h1>Autores 💻 :</h1>
+<h1>Autores del grupo G03L💻 :</h1>
   <ul>
-   <li>Anderson Alessandro Pablo Beltrán PB230838</li>
-   <li>Michael Douglas Noyola Moz NM231585</li>
+   <li>Anderson Alessandro Pablo Beltrán </li>
+   <li>Michael Douglas Noyola Moz </li>
    <li>Henry Vladimir Nájera Guerra</li>
-   <li>Diego Ismael Chavez Acevedo CA230991</li>
+   <li>Diego Ismael Chavez Acevedo </li>
    <li>Miguel Angel Herrera Arreaga</li>
  </ul>
 <h1>Licencia </h1>
