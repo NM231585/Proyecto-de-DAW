@@ -11,7 +11,7 @@ uno de los equipos del personal encargado de analizar los datos de las ventas.
 <ul>
   <li>[Visual Studio Code]<a href=https://code.visualstudio.com> Desarrollo.</li>
   <li>[Muqups]<a href=https://app.moqups.com>Creación de mockups.</a></li>
-  <li>[Figma]<a href=https://www.figma.com> Creación de UX/UI.</li>
+  <li>[Figma]<a href=https://www.figma.com/file/vJp9dDThIg3XQQ3pppVSoV/Proyecto-de-DAW?type=design&node-id=0%3A1&mode=design&t=3pdK8AqExW8KOajJ-1> Creación de UX/UI.</li>
   <li>[Google Drive]<a href=https://www.google.com/intl/es/drive> Almacenamiento de archivos.</a></li>
   <li>[Trello] <a href=https://trello.com/b/RyBC3kFG/proyecto-daw> Aplicación web de organización grupal.</li>
 </ul>
